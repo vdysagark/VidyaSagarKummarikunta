@@ -1,1 +1,2 @@
 # VidyaSagarKummarikunta
+I am currently located in Los Angeles, CA. I am working as a principal database administrator leading Big Data team at AT&T. I usually work on various technologies in the Hadoop environment and AWS services like EMR, Data lake formation, Lambda, S3, and step functions, etc. We are migrating to AWS and exploring new features everyday. We handle massive amount of data in our datalake and I am curious to study the data pattern and to analyse the data
