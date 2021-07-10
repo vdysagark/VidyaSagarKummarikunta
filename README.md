@@ -1,1 +1,1 @@
-# VidyaSagarKummarikunta.github.io
+# VidyaSagarKummarikunta
